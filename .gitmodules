@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/Corgile/neovim-configs.git
+[submodule "nvim-data"]
+	path = nvim-data
+	url = https://github.com/Corgile/nvim-data.git
