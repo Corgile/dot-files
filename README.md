@@ -20,5 +20,5 @@ mv env.txt env.reg
 
 ## Neovim Configuration
 
-see [Neovim Configuration Docs](./nvim/README.md) 
+see [Neovim Configuration Docs]([./nvim/README.md](https://github.com/Corgile/neovim-configs/blob/5b2db9b11520f9c2962f3e2c27e7b90f11d7df0d/README.md)) 
 
