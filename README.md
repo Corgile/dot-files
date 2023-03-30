@@ -21,3 +21,8 @@ mv env.txt env.reg
 
 see [Neovim Configuration Docs](https://github.com/Corgile/neovim-configs/blob/5b2db9b11520f9c2962f3e2c27e7b90f11d7df0d/README.md)
 
+
+
+## ZSH
+
+[Package: zsh - MSYS2 Packages](https://packages.msys2.org/package/zsh?repo=msys&variant=x86_64) 
