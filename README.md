@@ -26,3 +26,9 @@ see [Neovim Configuration Docs](https://github.com/Corgile/neovim-configs/blob/5
 ## ZSH
 
 [Package: zsh - MSYS2 Packages](https://packages.msys2.org/package/zsh?repo=msys&variant=x86_64) 
+
+## 注意
+
+集成在windows的CMD中需要 [GitHub · skeeto/w64devkit](https://github.com/skeeto/w64devkit/releases) 
+
+![keyviz_99GW2oyQ4T](./screenshot.gif)
