@@ -25,10 +25,16 @@ see [Neovim Configuration Docs](https://github.com/Corgile/neovim-configs/blob/5
 
 ## ZSH
 
-[Package: zsh - MSYS2 Packages](https://packages.msys2.org/package/zsh?repo=msys&variant=x86_64) 
+- windows executable : [Package: zsh - MSYS2 Packages](https://packages.msys2.org/package/zsh?repo=msys&variant=x86_64) 
 
-## 注意
+- 配置文件 [zsh/.zshrc](./zsh/.zshrc)
 
-集成在windows的CMD中需要 [GitHub · skeeto/w64devkit](https://github.com/skeeto/w64devkit/releases) 
+**更多**
 
-![keyviz_99GW2oyQ4T](./screenshot.gif)
+如要将zsh集成在windows的CMD中需要：
+
+1. 安装 [GitHub · skeeto/w64devkit](https://github.com/skeeto/w64devkit/releases) 
+
+2. 运行 [zsh/cmd-here-with-zsh.reg](./zsh/cmd-here-with-zsh.reg)
+
+![cmd + zsh preview](./screenshot.gif)
