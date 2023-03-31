@@ -1,10 +1,6 @@
-cd nvim
+cd neovim-configs
 git checkout main 
 git pull
-
-cd ../neovim-plugins
-git checkout main 
-git pull 
 
 cd ..
 
