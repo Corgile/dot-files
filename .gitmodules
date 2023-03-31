@@ -1,6 +1,3 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/Corgile/neovim-configs.git
-[submodule "neovim-plugins"]
-	path = neovim-plugins
-	url = https://github.com/Corgile/neovim-plugins.git
